@@ -9,6 +9,7 @@ Important -
 ---------
 	1) your source file should have proper extensions :
 		language  |  extension
+		-----------------------
 		python    |  .py
 		cpp       |  .cpp
 		c         |  .c
