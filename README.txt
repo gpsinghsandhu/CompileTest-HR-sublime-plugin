@@ -33,8 +33,19 @@ sublime-text-3
 
 Installation
 ------------
-Just copy the entire folder to your sublime Packages folder. In ubuntu 12.04 it is like
-/home/[username]/.config/sublime-text-3/Packages/
+You can get the source from here :
+
+https://github.com/gpsinghsandhu/CompileTest-HR-sublime-plugin
+
+You can install in two ways :
+	1) via git
+		- go to your sublime "Packages" folder. In ubuntu 12.04 it is like 
+		  /home/[username]/.config/sublime-text-3/Packages/
+		- git clone https://github.com/gpsinghsandhu/CompileTest-HR-sublime-plugin "CompileTestPlugin"
+	2) without git
+		- download the zip file from github
+		- extract the zip in sublime "Packages" folder. In ubuntu 12.04 it is like
+		  /home/[username]/.config/sublime-text-3/Packages/
 
 
 Usage
