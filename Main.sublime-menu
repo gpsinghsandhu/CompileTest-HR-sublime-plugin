@@ -1,0 +1,13 @@
+[
+{
+    "caption" : "Tools",
+    "id" : "tools",
+    "children" : [
+                    {
+                        "id" : "CompileTest",
+                        "caption" : "CompileTest",
+                        "command" : "compile_test"
+                    }
+                ]   
+}
+]
